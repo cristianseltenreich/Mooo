@@ -1,0 +1,125 @@
+#myNav{
+  font-family: 'Dokdo', cursive;
+  font-size: 2em;
+  padding: 2em;
+  background-color: #F6DCFA;
+
+}
+
+nav .navbar-brand{
+  color: red !important;
+  font-size: 3em;
+  padding-right: 20%;
+  font-family: 'Dokdo', cursive;
+}
+
+
+
+
+#vaca{
+	background-image: url("http://res.cloudinary.com/cristianseltenreich/image/upload/v1508131306/vaca_aomhfn.jpg");
+	background-size: 100%;
+  background-repeat:no-repeat;
+  background-position: 0% 25%;
+  height:700px;
+  margin-top: 10px;
+}
+
+#card{
+  width: 18rem;
+  height: 18rem;
+}
+
+.caption {
+  display: block;
+  font-family: 'Gloria Hallelujah', serif;
+  font-size: 2em;
+  font-style: italic;
+  line-height: 0.5em;
+  margin-left: 0.1em;
+  padding: 1em;
+  position: relative;
+  top: 7em;
+  width: 40%;
+  color: black;
+  background-color: white;
+  opacity: 0.35;
+}
+
+
+/*footer css!!*/
+
+.color-violet{
+  height:180px;
+  width:100%;
+  background-color: rgba(148, 0, 211, 0.1);
+}
+
+.color-indigo{
+  height:100px;
+  background-color: rgba(75, 0, 130, 0.7);
+  margin-bottom: 5px;
+}
+
+.color-blue{
+  height:100px;
+  background-color: rgba(	0, 0, 255, 0.7);
+  margin-bottom: 5px;
+}
+
+.color-green{
+  height:100px;
+  background-color: rgba(	0, 255, 0, 0.7);
+  margin-bottom: 5px;
+}
+
+.color-yellow{
+  height:100px;
+  background-color: rgba(255, 255, 0, 0.8);
+  margin-bottom: 5px;
+}
+
+.color-orange{
+  height:100px;
+  background-color: rgba(255, 127, 0, 0.7);
+  margin-bottom: 5px;
+}
+
+.color-red{
+  height:100px;
+  background-color: rgba(255, 0 , 0, 0.7);
+  margin-bottom: 5px;
+}
+
+
+/*the content of this div go down to the nested div with this style*/
+.text-rainbow {
+  display: block;
+  font-family: 'Fredericka the Great', cursive !important;
+  font-size: 50px;
+  line-height: 14px;
+  position: relative;
+  top: 25%;
+  width: 100%;
+  color: black;
+  background-color: white;
+  /*opacity: 100;*/
+}
+
+/*uthe nested col go up with this style*/
+.col-nested{
+  margin-top:-70px;
+}
+
+.foot-content{
+  padding-top: 35px;
+  color: grey;
+  font-size: 2em;
+}
+
+.foot-content p{
+  padding-top: 1em;
+  font-size: 10px;
+  font-family: 'PT Mono', monospace;
+}
+/*the end of the footer*/
