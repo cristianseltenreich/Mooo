@@ -31,19 +31,12 @@ nav .navbar-brand{
 }
 
 .caption {
-  display: block;
+
   font-family: 'Gloria Hallelujah', serif;
   font-size: 2em;
-  font-style: italic;
-  line-height: 0.5em;
-  margin-left: 0.1em;
-  padding: 1em;
-  position: relative;
-  top: 7em;
-  width: 40%;
-  color: black;
-  background-color: white;
-  opacity: 0.35;
+  color: red;
+  background-color: purple;
+  ;
 }
 
 
