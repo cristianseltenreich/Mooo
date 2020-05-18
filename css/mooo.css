@@ -13,18 +13,6 @@ nav .navbar-brand{
   font-family: 'Dokdo', cursive;
 }
 
-
-
-
-#vaca{
-	background-image: url("http://res.cloudinary.com/cristianseltenreich/image/upload/v1508131306/vaca_aomhfn.jpg");
-	background-size: 100%;
-  background-repeat:no-repeat;
-  background-position: 0% 25%;
-  height:700px;
-  margin-top: 10px;
-}
-
 #card{
   width: 18rem;
   height: 18rem;
@@ -35,8 +23,7 @@ nav .navbar-brand{
   font-family: 'Gloria Hallelujah', serif;
   font-size: 2em;
   color: red;
-  background-color: purple;
-  ;
+  background-color: rgba(148, 0, 211, 0.1);
 }
 
 
@@ -87,25 +74,14 @@ nav .navbar-brand{
 
 /*the content of this div go down to the nested div with this style*/
 .text-rainbow {
-  display: block;
   font-family: 'Fredericka the Great', cursive !important;
-  font-size: 50px;
-  line-height: 14px;
-  position: relative;
-  top: 25%;
-  width: 100%;
-  color: black;
-  background-color: white;
-  /*opacity: 100;*/
+  font-size: 2em;
+  line-height: 1em
 }
 
-/*uthe nested col go up with this style*/
-.col-nested{
-  margin-top:-70px;
-}
 
 .foot-content{
-  padding-top: 35px;
+  /*padding-top: 35px;*/
   color: grey;
   font-size: 2em;
 }
